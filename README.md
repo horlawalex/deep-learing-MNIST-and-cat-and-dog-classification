@@ -1,0 +1,3 @@
+# deep-learing-MNIST-and-cat-and-dog-classification
+The MNIST handwritten digit classification problem is a standard dataset used in computer vision and deep learning,The Dogs vs. Cats dataset is also a standard computer vision dataset that involves classifying photos as either containing a dog or cat.
+Although the problem sounds simple, it was only effectively addressed in the last few years using deep learning convolutional neural networks. While the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification from scratch.
